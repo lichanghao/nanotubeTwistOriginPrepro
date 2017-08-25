@@ -1,0 +1,5 @@
+ ifc -c -w95 -O3 headers.f90 
+ ifc -c -w95 -O3 *.f90 
+ ifc -O3 -o PrePro *.o
+ rm -rf *.o
+

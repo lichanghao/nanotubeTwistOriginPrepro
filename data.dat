@@ -1,0 +1,58 @@
+*numberoftubes
+2
+ngauss
+2
+nrow, ncol
+16 100
+17 103
+xlength 
+100.
+lambda_ini 1.006
+1.006
+lattice parameter
+0.145
+nanotube numbers
+5 5
+10 10
+Want to specify the chirality 
+0
+30.
+What potential??
+2
+CodeLoad:
+1
+Angle 
+0.
+nloadstep
+1
+W_hat?
+1
+critglobal
+7.d-3
+critlocal
+1.d-9
+Want random imperfections
+1
+Amplitude of the random imperfections (was 0.12)
+0.08
+Number of ghost rows at each end
+0
+Want van der Waals??
+1
+ngauss_vdw for non-bonded term?
+16
+Cut-off radius?
+0.6
+Bonded distance?
+0.61
+Parameter A of LJ
+24.3d-7
+Parameter sigma of LJ
+0.142
+Parameter y0 of LJ
+2.7
+How often update the neighbors?
+35
+
+
+
